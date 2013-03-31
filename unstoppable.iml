@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="unstoppable">
+    <configurations>
+      <configuration name="unstoppable" pure-as="true" main-class="com.danhett.core.Unstoppable" output-file="Unstoppable.swf" output-folder="$MODULE_DIR$/out/production/unstoppable">
+        <dependencies target-player="11.1">
+          <entries>
+            <entry library-name="away3d-core-fp11_4_0_9_gold" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="assets" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.6.0" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.6.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="away3d-core-fp11_4_1_0_Alpha (2)" level="project" />
+    <orderEntry type="library" exported="" name="away3D" level="project" />
+    <orderEntry type="library" exported="" name="away3d-core-fp11_4_0_9_gold" level="project" />
+    <orderEntry type="library" exported="" name="greensock" level="project" />
+    <orderEntry type="library" exported="" name="greensock" level="project" />
+    <orderEntry type="library" exported="" name="assets" level="project" />
+    <orderEntry type="library" exported="" name="assets" level="project" />
+  </component>
+</module>
+
